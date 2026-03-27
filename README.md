@@ -8,9 +8,11 @@ A SQL-first marketing attribution project built in PostgreSQL, modelling how rev
 
 ## The Business Problem
 
-When a customer makes a purchase, they typically interact with multiple marketing channels before converting — for example, discovering a product via Google, seeing a retargeting ad on Instagram, then converting through an email discount. 
+When a customer makes a purchase, they typically interact with multiple marketing channels before converting. 
 
-The question is: **which channel deserves credit for the sale?**
+For example, discovering a product via Google, seeing a retargeting ad on Instagram, then converting through an email discount. 
+
+The question is: **which channel deserves credit for the sale? and which channel should be invested in more?**
 
 This project implements four industry-standard attribution models to answer that question, and visualises how the answer changes depending on the model used.
 
